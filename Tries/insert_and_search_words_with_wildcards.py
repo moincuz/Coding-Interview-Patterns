@@ -50,3 +50,15 @@ print(InsertAndSearchWordsWithWildcards().search("."))
 print(InsertAndSearchWordsWithWildcards().search("a."))
 print(InsertAndSearchWordsWithWildcards().search("ap."))
 print(InsertAndSearchWordsWithWildcards().search("app."))
+
+## outcome should be:
+#None
+#False
+#False
+#False
+#False
+#False
+#False
+#False
+#False
+#False
