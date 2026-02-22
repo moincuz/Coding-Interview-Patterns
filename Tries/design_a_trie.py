@@ -49,3 +49,11 @@ print(Trie().has_prefix("app"))
 print(Trie().insert("app"))
 print(Trie().search("app"))
 print(Trie().has_prefix("app"))
+
+## outcome should be:
+# True
+# True
+# True
+# False
+# True
+# True
